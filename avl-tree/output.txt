@@ -1,0 +1,9 @@
+Preorder Traversal: 
+ 61  32  25  12  27  37  33  36  57  76  74  62  95  85  98  
+Postorder Traversal: 
+ 12  27  25  36  33  57  37  32  62  74  85  98  95  76  61  
+Inorder Traversal: 
+ 12  25  27  32  33  36  37  57  61  62  74  76  85  95  98  
+Height of each branch: 
+  *left:	4
+  *right:	3
